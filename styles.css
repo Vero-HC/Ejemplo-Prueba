@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+p{
+    color: hsl(187, 74%, 33%);
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
